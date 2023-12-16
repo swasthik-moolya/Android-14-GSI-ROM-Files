@@ -45,3 +45,4 @@ I AM NOT RESPONSIBLE FOR ANY BRICKS OR DAMAGES DONE TO YOUR PHONE.
 
 <h3>For more querries Contact me via telegram</h3>
 
+<meta http-equiv="Telegram" content="2; url=https://t.me/iamxdee/"> 
