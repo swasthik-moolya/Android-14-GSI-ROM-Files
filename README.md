@@ -42,7 +42,7 @@ I AM NOT RESPONSIBLE FOR ANY BRICKS OR DAMAGES DONE TO YOUR PHONE.
   THEN IN RECOVERY FORMAT YOUR DEVICE COMPLETLY
   
   STEP 8: Reboot and let device settle for 5 mins.
-
+<meta http-equiv="Download ROM file" content="2; url='https://www.mediafire.com/file/qm2vttiutk4lpeb/A14_estable_%2540OGB1987_by_%2540SAMMYLEAL07.zip/file'" />
 <h3>For more querries Contact me via telegram</h3>
 
 <meta http-equiv="Telegram" content="2; url=https://t.me/iamxdee/"> 
