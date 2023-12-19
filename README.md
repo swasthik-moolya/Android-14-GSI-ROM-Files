@@ -12,15 +12,23 @@ I AM NOT RESPONSIBLE FOR ANY BRICKS OR DAMAGES DONE TO YOUR PHONE.
 '''
 
 <h2>STEPS TO FLASH</h2>
-<p>
+
   STEP 1: Install Android SDK
+  
   STEP 2: Enable USB Debugging and OEM Unlocking
+  
   STEP 3: Unlock Bootloader on your Device</p>
-  <meta http-equiv="How to unlock bootloader" content="2; url='https://droidwin.com/unlock-bootloader-android-device/'" />
-<p>
+  
+  How to unlock bootloader
+  
+  https://droidwin.com/unlock-bootloader-android-device
+
   STEP 4: Download and Extract ROM
+  
   STEP 5: Boot Device Fastboot Mode
-  STEP 6: Flash Custom Recovery via fastboot( Orangefox Fbve2 for Android 14 )</p>
+  
+  STEP 6: Flash Custom Recovery via fastboot( Orangefox Fbve2 for Android 14 )
+  
   STEP 7: Flash Partition Files via Fastboot
 
   Fastboot Commands:
