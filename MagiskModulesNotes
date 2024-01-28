@@ -1,0 +1,13 @@
+MAGISK MODULES
+Here are the some magisk modules for Current builds:
+
+1) Playstore Integrity Fix
+  This integrity fix will help you to make device certified with google playstore. To make it certified, You will need to TURN ON enforce denylist.
+Then select all the google system apps such as, Play service, carrier service, google framework, Google playstore and Google apps,
+FLASH playIntegrityFix Module in magisk and reboot.
+
+2) Disable Secure Flag:
+  This module allows you to take screenshot in Incognito mode, And in any app that restrict you from taking Screenshot.
+
+3) Google Photos Unlimited Backup
+  Allows you to backup unlimited google photos and video in Google Photos.
